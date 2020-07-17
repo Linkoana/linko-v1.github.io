@@ -157,9 +157,7 @@ h1 {
 .skills{
 	column-count: 2;
 	column-gap: 40%;
-	margin: 2% 10%;
-	background-color: 
-		
+	margin: 2% 10%;		
 }
 
 .skills li {
@@ -267,7 +265,7 @@ li img:hover{
 
 .carousel_nav{
 	justify-content: center;
-	padding-top: 10px 0;
+	padding-top: 10px;
 }
 .carousel_indicator{
 	border: 0;
